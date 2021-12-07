@@ -1,0 +1,99 @@
+body 
+{ 
+  padding: 2em;
+}
+.signIn
+{
+  margin-top: 2%;
+  height:10%;
+  border-radius: 15px;
+  border: none;
+}
+.signInbutton
+{
+  border-radius: 15px;
+  height: 70px;
+}
+.container
+{
+  height: max-content;
+  width: 40%;
+  align-self: center;
+  background-color: rgba(247, 212, 197, 0.911);
+  padding-top: 3%;
+  padding-bottom: 3%;
+  border-radius: 20px;
+  border-color: black;
+  align-items: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.name
+{
+  font: 45px Candara;
+  color: #240654;
+  text-transform: uppercase;
+}
+.body
+{
+  padding-top: 10%;
+  padding-bottom: 18%;
+  background-image: url('./images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.input
+{
+	padding:1%;
+	font: 15px Candara;
+	color: #240654;
+  text-transform: uppercase;
+}
+input
+{
+  width: 50%;
+  padding: 1%;
+  margin: 12px 0;
+  box-sizing: border-box;
+  border: 1px solid #dbae69;
+  outline: none;
+  border-radius: 4px;
+}
+select
+{
+	width: 30%;
+  padding: 1%;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #dbae69;
+  outline: none;
+  border-radius: 4px;
+}
+.signup
+{
+  margin-left: 20px;
+}
+.signup a
+{
+  color: white;
+  text-decoration: none;
+}
+.reset
+{
+  margin-left: 60px;
+}
+.reset a
+{
+  color: white;
+  text-decoration: none;
+}
+.login
+{
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+.login a
+{
+  color: white;
+  text-decoration: none;
+}
