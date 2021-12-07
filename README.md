@@ -1,4 +1,4 @@
-# Startup-Mentoring-Website 👨‍🏫
+# Startup Mentoring Website 👨‍🏫
 <p align="center">
     <img src="images/banner_img.png" alt="BannerImage">
 </p>
