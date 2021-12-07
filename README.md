@@ -26,7 +26,7 @@
 
 ## <a name="Results?">Results?</a>
 
-<table style="width:1920px; border: black; margin: 0px auto;" class="skinny" cellspacing="0" cellpadding="0">
+<table style="width:2800px; border: black; margin: 0px auto;" class="skinny" cellspacing="0" cellpadding="0">
     <tr>
         <td>
             <img src="images/homepage_1.png" alt="Image" width="700" height="100">
