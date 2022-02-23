@@ -6,7 +6,7 @@
 
 ## <a name="system">What does it include?</a>
 
-**Startup Mentoring Website** is created to help and support the startups of various domains initiated by the budding entrepreneurs by getting guidance from the mentors or experts of that field and getting financial support from the funders. It has various features thay include communicating with mentors through chat page, daily updates on news, webinars, blogs and forums to discuss their startup related doubts. Lastly, it has chatbot to solve user queries developed using DialogFlow.
+**Startup Mentoring Website** is created to help and support the startups of various domains initiated by the budding entrepreneurs by getting guidance from the mentors or experts of that field and getting financial support from the funders. It has various features that include communicating with mentors through chat page, daily updates on news, webinars, blogs and forums to discuss their startup related doubts. Lastly, it has chatbot to solve user queries developed using DialogFlow.
 
 You can check the app version of this same system [here](https://github.com/ekta18/Mentorup).
 
